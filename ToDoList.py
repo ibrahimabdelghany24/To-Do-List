@@ -1,4 +1,5 @@
 # To Do List App
+# remember to do database with sqlite3
 import sqlite3
 from customtkinter import *
 from tkinter import  Menu
