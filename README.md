@@ -9,6 +9,16 @@
     <li>Edit Task</li>
   </ul>
   <p>
+    Modules Used In This Programe Are:
+    <ul>
+      <li>customtkinter</li> 
+      <li>tkinter</li> 
+      <li>sqlite3</li> 
+      <li>datetime</li> 
+      <li>pygame "For Sounds"</li> 
+    </ul>
+  </p>
+  <p>
     There Is Date And Time In The App, The Tasks Will Be There Even If The App Is Closed
   </p>
 </div>
